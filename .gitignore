@@ -1,0 +1,4 @@
+# Machine Learning Models
+*.pkl
+*.joblib 
+loan_risk_model.pkl 
