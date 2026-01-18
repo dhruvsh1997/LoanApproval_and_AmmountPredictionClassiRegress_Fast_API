@@ -11,7 +11,7 @@ A comprehensive machine learning solution for loan eligibility prediction and ri
 - **Data Processing**: Includes automated data cleaning, feature engineering, and scaling
 - **Model Persistence**: Saves trained models using joblib for deployment
 
-## 🏗️ Architecture
+## 🏗️ Architectures
 
 ### Machine Learning Pipeline
 
