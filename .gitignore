@@ -2,3 +2,4 @@
 *.pkl
 *.joblib 
 loan_risk_model.pkl 
+.moga
